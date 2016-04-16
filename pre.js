@@ -67,4 +67,4 @@ function hideAddressBar(bPad) {
 	}, 1000);
 
 }
-// test comment
+
