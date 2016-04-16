@@ -67,4 +67,3 @@ function hideAddressBar(bPad) {
 	}, 1000);
 
 }
-// comment again to test commit
