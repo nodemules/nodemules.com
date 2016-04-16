@@ -25,12 +25,14 @@ h1 {
 }
 
 .btn-nm:hover {
+  color: #fff;
   background-color: #2D5292;
   border-color: #264A89;
 }
 
 .btn-nm:active {
-  background-color: #3C51CD;
+  color: #fff;
+  background-color: #303F96;
   border-color: #1E2D83;
 }
 
