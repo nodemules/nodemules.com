@@ -107,7 +107,19 @@ h1 {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: url('images/background_city_up.jpg') center fixed;
+  background: url('images/web_md_background-city_up.jpg') center fixed;
   background-size: cover;
   z-index: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .site-wrapper-inner-background {
+    background: url('images/web_sm_background-city_up.jpg') center fixed;
+  }
+}
+
+@media screen and (min-width: 1152px) {
+  .site-wrapper-inner-background {
+    background: url('images/web_lg_background-city_up.jpg') center fixed;
+  }
 }
