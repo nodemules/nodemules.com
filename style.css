@@ -18,6 +18,22 @@ h1 {
   }
 }
 
+.btn-nm {
+  color: #fff;
+  background-color: #6495ED;
+  border-color: #3F70C6;
+}
+
+.btn-nm:hover {
+  background-color: #2D5292;
+  border-color: #264A89;
+}
+
+.btn-nm:active {
+  background-color: #3C51CD;
+  border-color: #1E2D83;
+}
+
 .site-wrapper {
   display: table;
   table-layout: fixed;
